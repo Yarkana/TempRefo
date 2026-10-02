@@ -101,11 +101,12 @@
 |---|---|
 | Right Stick | 이동 |
 | Left Stick| 방향 전환 |
-| Right Tirgger | 사용중인 총기 발사/(총기 해제 시)상호 작용&아이템 사용|
-| Left Tirgger | 상호작용/주요 소모품 꺼내기&사용|
-| Y | 인벤토리 UI 개방|
-| Right Stick Button | 오른손 조작 메뉴|
-| Left Stick Button | 왼손 조작 메뉴|
+| Right Tirgger | 사용중인 총기 발사/(총기 해제 시)상호 작용&아이템 사용 |
+| Left Tirgger | 상호작용/주요 소모품 꺼내기&사용 |
+| Y | 인벤토리 UI 개방 |
+| B | 빠른 소모품 선택(플레이어 설정) |
+| Right Stick Button | 오른손 조작 메뉴 |
+| Left Stick Button | 왼손 조작 메뉴 |
 
 ---
 
